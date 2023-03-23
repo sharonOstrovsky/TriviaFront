@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# **Trivia** :medal_sports:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4>Aplicación desarrollada para EconAr 2023, Feria de Economía del Conocimiento </h4>
 
-## Available Scripts
+![](src/main/resources/img/logo.png)
 
-In the project directory, you can run:
 
-### `npm start`
+## Descripción
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+La aplicación es una trivia con preguntas de diferentes categorías
+entre las cuales se encuentra tecnología, conocimiento general, geografía, 
+entretenimiento y matemática.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Se encuentra dividido por niveles según la edad del usuario.
+* El usuario puede registrarse con sus datos que se guardan en la base de datos.
+* Son cinco preguntas por usuario, ganando con un minimo de tres preguntas correctas.
+* En la base de datos se encuentran más de 250 preguntas.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tecnologías Utilizadas
 
-### `npm run build`
+* Java
+* Spring
+* MySQL
+* Postman
+* Figma
+* Swagger
+* Heroku
+* Javascript
+* React
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Figma
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+https://www.figma.com/file/N2TUBjsXDa9IlLXYjuu2mu/Untitled?node-id=0%3A1&t=uSVnvvvXe9K1fyAI-1
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Heroku BACK
 
-### `npm run eject`
+```
+https://triviatecnologica.herokuapp.com
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Heroku FRONT
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+https://trivia-gyl.herokuapp.com
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Instalación
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Pasos a Seguir:
 
-## Learn More
+<ol>
+<li>Clonar el Repositorio
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+git clone https://github.com/sharonOstrovsky/TriviaFront.git
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+</li>
+</ol>
 
-### Code Splitting
+## GitHub BACK
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+https://github.com/sharonOstrovsky/Trivia.git
+```
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Autores
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* Sharon Ostrovsky
+* Max Sauerbrey
+* Marcos Aguero
+* Facundo Aguirre
+* Belen Oña
+* Carla Marquez
+* Damian Bettini
+* Lautaro Montaño
+* Jasbir Singh
+* Mirna Diaz
+* Hector Sanchez
